@@ -1,0 +1,31 @@
+banner_suffix:
+links:
+  - class_name: 推荐
+    descr: 参与本站开发、提供设计灵感、帮助本站的优秀博主，综合排序
+    type: card
+    suffix:
+    link_list:
+      - name: 张洪Heo
+        link: https://blog.zhheo.com/
+        avatar: https://img.zhheo.com/i/67d8fa75943e4.webp
+        descr: 分享设计与科技生活
+        topimg: https://img.zhheo.com/i/67d8fb5f563ff.webp
+      - name: 小萌虎
+        link: https://blog.hallobo.xin
+        avatar: https://bu.dusays.com/2025/10/01/68dcb6bce89aa.jpg
+        descr: 分享设计与科技生活
+        topimg: https://bu.dusays.com/2025/10/01/68dcb6bce89aa.jpg
+      - name: 星港
+        link: https://blog.starsharbor.com
+        avatar: https://bu.dusays.com/2025/04/11/67f92f6fcfb26.webp
+        descr: 博客记录生活与热爱
+        topimg: https://bu.dusays.com/2025/04/11/67f92f6fcfb26.webp
+  - class_name: 小伙伴
+    descr: 一些可爱的朋友🥰
+    type: item
+    suffix:
+    link_list:
+      - name: Mo的记事簿
+        link: https://blog.xiowo.net/
+        avatar: https://blog.xiowo.net/img/avatar.png
+        descr: 万年鸽王，哈哈OvO
